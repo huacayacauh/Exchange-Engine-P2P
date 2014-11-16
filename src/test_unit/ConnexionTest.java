@@ -10,7 +10,11 @@ import principal.Connexion;
 import traitement.Traitement_xml;
 
 public class ConnexionTest {
-	 private Connexion connexion = null;
+	/**
+	 *
+	 *  Test unit methode Connexion
+	 */
+	private Connexion connexion = null;
 	@Before
 	public void setUp() throws Exception {
 		connexion = new Connexion();
