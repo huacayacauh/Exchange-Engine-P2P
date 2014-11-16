@@ -182,7 +182,7 @@ public class Inscription extends javax.swing.JFrame {
 	 * du format
 	 */ 
 	@SuppressWarnings("deprecation")
-	private synchronized void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {    
+	public synchronized void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {    
 		if (!(jTextField_email.getText().equals("") || jPasswordFieldmdp1.getText().equals("")
 				|| jPasswordFieldmdp2.getText().equals("") || jTextField_nom.getText().equals("")
 				|| jTextField_prenom.getText().equals(""))){
