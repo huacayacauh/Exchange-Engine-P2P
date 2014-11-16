@@ -32,16 +32,17 @@ public class Model{
 
 
 	}
-
-
 	@SuppressWarnings("unused")
 	public static void main(String[] args) throws IOException {
 
 		Model model = new Model();
 
 	}
-
-
+	
+	/**
+	 *
+	 * Methode permettant d'envoyer un message en boradcast
+	 */
 	public void run(String ok) throws IOException{
 		int i=0;
 
@@ -55,12 +56,6 @@ public class Model{
 			}
 
 		}
-
-
-
-
-
-
 	}
 
 
@@ -72,7 +67,6 @@ public class Model{
 			e.printStackTrace();
 		}   	
 	}
-
 
 	@SuppressWarnings("unused")
 	private void publishMyDemands(){

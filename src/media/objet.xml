@@ -1,17 +1,8 @@
 <diagramme>
-
-
-
-
-
-
-
-
-
 <objet>
   <propritaire>chtiwi.dev@gmail.com</propritaire>
   <information>
-    <titre>maison v2</titre>
+	  <titre>moto</titre>
     <categorie>vehicule</categorie>
     <couleur>java.awt.color[r=204,g=51,b=0]</couleur>
     <echange>echange maison v2</echange>
@@ -25,7 +16,7 @@
 <objet>
   <propritaire>chtiwi.dev@gmail.com</propritaire>
   <information>
-    <titre>voiture v2</titre>
+    <titre>voiture</titre>
     <categorie>vehicule</categorie>
     <couleur>java.awt.color[r=204,g=51,b=0]</couleur>
     <echange>echange voiture v2</echange>
@@ -35,41 +26,10 @@
   </information>
 </objet>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <objet>
   <propritaire>toto@toto.fr</propritaire>
   <information>
-    <titre>sac v3 update</titre>
+  <titre>truc</titre>
     <categorie>vehicule</categorie>
     <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
     <echange>echange sac contre un truc</echange>
@@ -85,7 +45,7 @@
 <objet>
   <propritaire>toto@toto.fr</propritaire>
   <information>
-    <titre>iphone v3</titre>
+  <titre>test</titre>
     <categorie>vehicule</categorie>
     <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
     <echange>echange iphone contre voiture</echange>
@@ -99,7 +59,7 @@
 <objet>
   <propritaire>toto@toto.fr</propritaire>
   <information>
-    <titre>test v3</titre>
+  <titre>voiture toto</titre>
     <categorie>vehicule</categorie>
     <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
     <echange>echange sac contre un truc</echange>
@@ -109,17 +69,10 @@
   </information>
 </objet>
 
-
-
-
-
-
-
-
 <objet>
   <propritaire>chtiwi.dev@gmail.com</propritaire>
   <information>
-    <titre>teste v2</titre>
+  <titre>maison</titre>
     <categorie>immobilier</categorie>
     <couleur>java.awt.color[r=102,g=0,b=102]</couleur>
     <echange>echange test contre rien</echange>
