@@ -1,0 +1,13 @@
+
+<objet>
+  <propritaire>chtiwi.dev@gmail.com</propritaire>
+  <information>
+    <titre>teste v2</titre>
+    <categorie>immobilier</categorie>
+    <couleur>java.awt.color[r=102,g=0,b=102]</couleur>
+    <echange>echange test contre rien</echange>
+    <zone>alsace</zone>
+    <numero>0618878120</numero>
+    <url>maison.png</url>
+  </information>
+</objet>

@@ -1,0 +1,131 @@
+<diagramme>
+
+
+
+
+
+
+
+
+
+<objet>
+  <propritaire>chtiwi.dev@gmail.com</propritaire>
+  <information>
+    <titre>maison v2</titre>
+    <categorie>vehicule</categorie>
+    <couleur>java.awt.color[r=204,g=51,b=0]</couleur>
+    <echange>echange maison v2</echange>
+    <zone>alsace</zone>
+    <numero>0618878120</numero>
+    <url>maison.png</url>
+  </information>
+</objet>
+
+
+<objet>
+  <propritaire>chtiwi.dev@gmail.com</propritaire>
+  <information>
+    <titre>voiture v2</titre>
+    <categorie>vehicule</categorie>
+    <couleur>java.awt.color[r=204,g=51,b=0]</couleur>
+    <echange>echange voiture v2</echange>
+    <zone>basse-normandie</zone>
+    <numero>0618878120</numero>
+    <url>voiture.png</url>
+  </information>
+</objet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<objet>
+  <propritaire>toto@toto.fr</propritaire>
+  <information>
+    <titre>sac v3 update</titre>
+    <categorie>vehicule</categorie>
+    <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
+    <echange>echange sac contre un truc</echange>
+    <zone>alsace</zone>
+    <numero>0618818720</numero>
+    <url>sac.png</url>
+  </information>
+</objet>
+
+
+
+
+<objet>
+  <propritaire>toto@toto.fr</propritaire>
+  <information>
+    <titre>iphone v3</titre>
+    <categorie>vehicule</categorie>
+    <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
+    <echange>echange iphone contre voiture</echange>
+    <zone>alsace</zone>
+    <numero>0654535234</numero>
+    <url>iphone.png</url>
+  </information>
+</objet>
+
+
+<objet>
+  <propritaire>toto@toto.fr</propritaire>
+  <information>
+    <titre>test v3</titre>
+    <categorie>vehicule</categorie>
+    <couleur>java.awt.color[r=51,g=255,b=102]</couleur>
+    <echange>echange sac contre un truc</echange>
+    <zone>alsace</zone>
+    <numero>0618818720</numero>
+    <url>sac.png</url>
+  </information>
+</objet>
+
+
+
+
+
+
+
+
+<objet>
+  <propritaire>chtiwi.dev@gmail.com</propritaire>
+  <information>
+    <titre>teste v2</titre>
+    <categorie>immobilier</categorie>
+    <couleur>java.awt.color[r=102,g=0,b=102]</couleur>
+    <echange>echange test contre rien</echange>
+    <zone>alsace</zone>
+    <numero>0618878120</numero>
+    <url>maison.png</url>
+  </information>
+</objet>
+</diagramme>

@@ -1,0 +1,19 @@
+<diagramme>
+  <utilisateur>
+    <mel>toto@toto.fr</mel>
+    <information>
+      <prenom>titi</prenom>
+      <nom>toto</nom>
+      <mdp>tati</mdp>
+    </information>
+  </utilisateur>
+
+<utilisateur>
+  <mel>chtiwi.dev@gmail.com</mel>
+  <information>
+    <prenom>chtiwi</prenom>
+    <nom>el mehdi</nom>
+    <mdp>123</mdp>
+  </information>
+</utilisateur>
+</diagramme>

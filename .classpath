@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk14.jar"/>
+	<classpathentry kind="lib" path="lib/cryptix-asn1.jar"/>
+	<classpathentry kind="lib" path="lib/jxta.jar"/>
+	<classpathentry kind="lib" path="lib/cryptix32.jar"/>
+	<classpathentry kind="lib" path="lib/jxtaptls.jar"/>
+	<classpathentry kind="lib" path="lib/jxtasecurity.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/itext-pdfa-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-pdfa-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-pdfa-5.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/itext-xtra-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-xtra-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-xtra-5.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5-contrib.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5-junit.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
